@@ -7,9 +7,9 @@ repository:
 
 # Add a couple of labels
 labels:
-  - name: "bug"
+  - name: "culo"
     color: "d73a4a"
-    description: "Something isn't working"
+    description: "el culo"
   - name: "documentation"
     color: "0075ca"
     description: "Improvements or additions to documentation"
