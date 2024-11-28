@@ -1,15 +1,6 @@
 repository:
   # Change repository settings
-  has_wiki: false
+  has_wiki: true
   has_projects: true
   allow_squash_merge: true
   delete_branch_on_merge: true
-
-# Add a couple of labels
-labels:
-  - name: "culo"
-    color: "d73a4a"
-    description: "el culo"
-  - name: "documentation"
-    color: "0075ca"
-    description: "Improvements or additions to documentation"
